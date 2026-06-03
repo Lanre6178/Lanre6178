@@ -1,8 +1,5 @@
 <h2 align="left">Hi 👋! My name is Abdullah Ibraheem and I'm a Software Engineer, Front-End & Back-End Developer from Lagos, Nigeria.</h2>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 ###
 
